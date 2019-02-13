@@ -64,7 +64,7 @@ Wave Integrated Access and Backhaul"
 
 #### 2016
 
-[J2] C. Saha, S. Das, K. Pal and S. Mukherjee, "A Fuzzy Rule-Based Penalty Function Approach for Constrained Evolutionary Optimization," in IEEE Transactions on Cybernetics, vol. 46, no. 12, pp. 2953-2965, Dec. 2016. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/6918436)
+[J2] **C. Saha**, S. Das, K. Pal and S. Mukherjee, "A Fuzzy Rule-Based Penalty Function Approach for Constrained Evolutionary Optimization," in IEEE Transactions on Cybernetics, vol. 46, no. 12, pp. 2953-2965, Dec. 2016. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/6918436)
 
 #### 2015
 
