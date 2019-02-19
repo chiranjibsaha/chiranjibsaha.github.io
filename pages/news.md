@@ -7,10 +7,12 @@ description: Chiranjib Saha is a PhD student in Bradley Department of Electrical
 #### News
 ##### 2019
 - [Feb 2019] Submitted [paper](https://arxiv.org/abs/1902.06300) on load balancing in mm-wave IAB HetNets.
+
 ##### 2018
 - [Dec 2018]  Submitted [paper](https://arxiv.org/abs/1812.01830) on unified coverage analysis of HetNets. 
  - [Dec 2018]  [Paper](https://ieeexplore.ieee.org/abstract/document/8493520/) on mm-wave IAB  accepted in *IEEE Transactions on Wireless Communication*.
  - [Jun 2018]  Joined [Nokia Bell labs](https://www.bell-labs.com/) as summer intern.
+ 
 ##### 2017
 - [Dec 2017]  [Paper](https://ieeexplore.ieee.org/document/8187697) accepted in *IEEE Transactions on Communications*.
  - [Feb 2017] Submitted invited [paper](http://ieeexplore.ieee.org/document/8023448/) on PCP-based HetNet modeling to [ITA, 2017](http://ita.ucsd.edu/workshop/17/?year=17).
