@@ -12,7 +12,8 @@ I am a PhD student at the [Wireless@VT](https://wireless.vt.edu/) group,  [Bradl
                 <a href="{{ BASE_PATH }}/assets/resume_chiranjib.pdf">CV</a> /
                 <a href="{{ BASE_PATH }}/assets/chiranjib-bio.txt">Biography</a> /
                 <a href="https://scholar.google.com/citations?hl=en&user=WDy6l08AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>  /
-                <a href="https://www.linkedin.com/in/chiranjib-saha-486151a1//"> LinkedIn </a>
+                <a href="https://www.linkedin.com/in/chiranjib-saha-486151a1/"> LinkedIn </a>  /
+                 <a href="https://github.com/stochastic-geometry/"> Github </a>
 </p>
 
 ----
