@@ -9,6 +9,8 @@ Here is the list of slides I prepared for different talks/presentations. The lin
 
 #### Intigrated access and backhaul (IAB)
 
+- "Integrated mmWave Access and Backhaul in 5G", for internal presentation. <a href="{{ BASE_PATH }}/assets/slides/IAB_updated.pdf" target="_blank">[slide]</a> 
+
 - "Integrated mmWave Access and Backhaul in 5G: Bandwidth Partitioning and Downlink Analysis", presented in IEEE ICC, Kansas city, Kansas, USA. May 2018. <a href="{{ BASE_PATH }}/assets/slides/ICC_2018v2.pdf" target="_blank">[slide]</a> 
 
 - "Integrated mmWave Access and Backhaul in 5G: Bandwidth Partitioning and Downlink Analysis", presented in Wireless@VT seminar. Oct. 2017.  [[video]](https://www.youtube.com/watch?v=IVuJKr6GbNA) <a href="{{ BASE_PATH }}/assets/slides/WVT_v3.pdf" target="_blank">[slide]</a> 
