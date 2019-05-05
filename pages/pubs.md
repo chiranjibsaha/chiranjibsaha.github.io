@@ -74,7 +74,7 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 ### <a name="conf"></a>Conference Articles
 
 #### Submitted
-[C8] C. Saha and H. S. Dhillon, “Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks”, submitted. [[arXiv]](https://arxiv.org/abs/1905.00504) [[Code]](https://github.com/stochastic-geometry/DPPL).
+[C8] C. Saha and H. S. Dhillon, “Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks”, submitted. [[arXiv]](https://arxiv.org/abs/1905.00504) [[code]](https://github.com/stochastic-geometry/DPPL).
 
 [C7] C. Saha and H. S. Dhillon, “On Load Balancing in Millimeter Wave HetNets with Integrated Access and Backhaul”, submitted.
 
