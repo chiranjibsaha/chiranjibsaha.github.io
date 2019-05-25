@@ -55,9 +55,11 @@ Alongside my research, I am a photography-enthusiast. I love to spend time readi
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/cs_l.jpg">
+          <div class="image-cropper">
+             <a href="../assets/pics/cs_l.jpg">
             <img src="../assets/pics/cs_m.jpg"
-                  title="Chiranjib Saha" alt="C Saha"/></a>
+                  title="Chiranjib Saha" alt="C Saha" class="profile-pic"/></a>
+           </div>   
         </div>
     </div>
 </div>
