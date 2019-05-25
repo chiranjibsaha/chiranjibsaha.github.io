@@ -83,6 +83,10 @@ font-family: 'PT Sans', sans-serif;
 }
 .profile-pic {
      border-radius: 20%;
+     position: relative;
+      width: 100px;
+     height: 100px;
+     
 }
 
 
