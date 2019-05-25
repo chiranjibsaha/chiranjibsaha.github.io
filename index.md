@@ -62,5 +62,4 @@ Alongside my research, I am a photography-enthusiast. I love to spend time readi
            </div>   
         </div>
     </div>
-</div>
 
