@@ -81,7 +81,7 @@ font-family: 'PT Sans', sans-serif;
 .profile-pic {
   display: inline;
   margin: 0 auto;
-  margin-left: -20%; //centers the image
+ // margin-left: -20%; //centers the image
   height: 100%;
   width: auto;
 }
