@@ -72,17 +72,17 @@ font-family: 'PT Sans', sans-serif;
 
 
 .image-cropper {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    overflow: hidden;
+  //  width: 100px;
+  //  height: 100px;
+  //  position: relative;
+  //  overflow: hidden;
     border-radius: 80%;
 }
 .profile-pic {
-    display: inline;
-    margin: 0 auto;
-    height: 100%;
-    width: auto;
+  //  display: inline;
+   // margin: 0 auto;
+   // height: 100%;
+   // width: auto;
 }
 
 
