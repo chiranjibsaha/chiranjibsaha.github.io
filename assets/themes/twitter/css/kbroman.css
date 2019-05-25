@@ -82,10 +82,7 @@ font-family: 'PT Sans', sans-serif;
   //  height: 500px;
 }
 .profile-pic {
-   border-radius: 20%;
-    vertical-align: middle;
-    width: 500px;
-    height: 500px;
+     border-radius: 20%;
 }
 
 
