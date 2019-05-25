@@ -77,6 +77,9 @@ font-family: 'PT Sans', sans-serif;
   //  position: relative;
   //  overflow: hidden;
     border-radius: 20%;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
 }
 .profile-pic {
   //  display: inline;
