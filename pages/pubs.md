@@ -35,8 +35,8 @@ description: Chiranjib Saha's publications
 
 #### Submitted
 
-[J10] **C. Saha**, H. S. Dhillon, "Load Balancing in 5G HetNets with Millimeter
-Wave Integrated Access and Backhaul". [[arXiv]](https://arxiv.org/abs/1902.06300)[[code]](https://github.com/stochastic-geometry/Load-balancing-5G-mmwave)
+[J10] **C. Saha**, H. S. Dhillon, "Millimeter Wave Integrated Access and Backhaul in 5G: Performance Analysis and Design Insights
+". [[arXiv]](https://arxiv.org/abs/1902.06300)[[code]](https://github.com/stochastic-geometry/Load-balancing-5G-mmwave)
 
 #### 2019
 
