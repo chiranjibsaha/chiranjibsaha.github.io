@@ -6,6 +6,10 @@ description: Chiranjib Saha is a PhD student in Bradley Department of Electrical
 
 #### News
 ##### 2019
+- [Oct 2019] [Paper](https://arxiv.org/abs/1902.06300) on mm-wave IAB accepted in [IEEE JSAC special issue on mm-wave networking](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/millimeter-wave-networking)
+- [Jul 2019] Received the best intern poster award at Samsung Research America.
+- [May 2019] Joined [Samsung Research America](https://www.sra.samsung.com/) as summer intern.
+- [May 2019] Cleared PhD Preliminary Examination.
 - [Feb 2019] Submitted [paper](https://arxiv.org/abs/1902.06300) on load balancing in mm-wave IAB HetNets.
 
 ##### 2018
