@@ -32,13 +32,15 @@ description: Chiranjib Saha's publications
 
 ### <a name="journal"></a>Journal Articles
 
-
 #### Submitted
+
+(There is no paper under submission now)
+
+#### 2019
 
 [J10] **C. Saha**, H. S. Dhillon, "Millimeter Wave Integrated Access and Backhaul in 5G: Performance Analysis and Design Insights
 ", *IEEE Journal on Selected Areas in Communications*, *to appear*, [[arXiv]](https://arxiv.org/abs/1902.06300)[[code]](https://github.com/stochastic-geometry/Load-balancing-5G-mmwave)
 
-#### 2019
 
 [J9] **C. Saha**, H. S. Dhillon, N. Miyoshi, and J. G. Andrews, 
 "Unified Analysis of HetNets using Poisson Cluster Process under Max-Power Association", *IEEE Transactions on Wireless Communications*,   vol. 18, no. 8, pp. 3797-3812, Aug. 2019.  [[IEEE Xplore]](https://doi.org/10.1109/TWC.2019.2917904)
@@ -78,9 +80,16 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 ### <a name="conf"></a>Conference Articles
 
 #### Submitted
-[C8] C. Saha and H. S. Dhillon, “Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks”, submitted. [[arXiv]](https://arxiv.org/abs/1905.00504) [[code]](https://github.com/stochastic-geometry/DPPL).
 
-[C7] C. Saha and H. S. Dhillon, “On Load Balancing in Millimeter Wave HetNets with Integrated Access and Backhaul”, submitted.
+(There is no paper under submission now)
+
+#### 2019
+
+[C9] **C. Saha** and H. S. Dhillon, “Interference Characterization in Wireless Networks: A Determinantal Learning Approach”, in Proc. IEEE Int. Workshop in Machine Learning for Sig. Processing, Pittsburgh, PA, Oct. 2019.
+
+[C8] **C. Saha** and H. S. Dhillon, “Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks”,  in Proc. IEEE Globecom, Waikoloa, HI, Dec. 2019. [[arXiv]](https://arxiv.org/abs/1905.00504) [[code]](https://github.com/stochastic-geometry/DPPL).
+
+[C7] C. Saha and H. S. Dhillon, “On Load Balancing in Millimeter Wave HetNets with Integrated Access and Backhaul”,  in Proc. IEEE Globecom, Waikoloa, HI, Dec. 2019.
 
 #### 2018
 
