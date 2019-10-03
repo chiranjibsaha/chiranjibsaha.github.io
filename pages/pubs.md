@@ -36,12 +36,12 @@ description: Chiranjib Saha's publications
 #### Submitted
 
 [J10] **C. Saha**, H. S. Dhillon, "Millimeter Wave Integrated Access and Backhaul in 5G: Performance Analysis and Design Insights
-". [[arXiv]](https://arxiv.org/abs/1902.06300)[[code]](https://github.com/stochastic-geometry/Load-balancing-5G-mmwave)
+", *IEEE Journal on Selected Areas in Communications*, *to appear*, [[arXiv]](https://arxiv.org/abs/1902.06300)[[code]](https://github.com/stochastic-geometry/Load-balancing-5G-mmwave)
 
 #### 2019
 
 [J9] **C. Saha**, H. S. Dhillon, N. Miyoshi, and J. G. Andrews, 
-"Unified Analysis of HetNets using Poisson Cluster Process under Max-Power Association", *IEEE Transactions on Wireless Communications*, *to appear*. 
+"Unified Analysis of HetNets using Poisson Cluster Process under Max-Power Association", *IEEE Transactions on Wireless Communications*,   vol. 18, no. 8, pp. 3797-3812, Aug. 2019.  [[IEEE Xplore]](https://doi.org/10.1109/TWC.2019.2917904)
 [[arXiv]](https://arxiv.org/abs/1812.01830)[[code]](https://github.com/stochastic-geometry/PCP-HetNet-Max-Power-Association)
 
 
