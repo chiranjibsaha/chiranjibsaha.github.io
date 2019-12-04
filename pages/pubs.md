@@ -21,13 +21,16 @@ description: Chiranjib Saha's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#book">Books</a></li>
             <li><a href="#journal">Journals</a></li>
             <li><a href="#conf">Conferences</a></li>
        </ul>
     </div>
 </div>
 
+### <a name = "book"></a> Books
 
+[B1] H. S. Dhillon, **C. Saha**, and M. Afshang, "Poisson Cluster Processes: Theory and Application to Wireless Networks", under preparation with Cambridge University Press
 
 
 ### <a name="journal"></a>Journal Articles
