@@ -37,7 +37,8 @@ description: Chiranjib Saha's publications
 
 #### Submitted
 
-(There is no paper under submission now)
+[J11] **C. Saha**, H. S. Dhillon, "Load on the Typical Poisson Voronoi Cell with
+Clustered User Distribution", submitted.
 
 #### 2019
 
