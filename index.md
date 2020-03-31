@@ -12,7 +12,7 @@ I am a PhD student at [Wireless@VT](https://wireless.vt.edu/),  [Bradley Departm
                 <a href="{{ BASE_PATH }}/assets/resume_chiranjib.pdf">CV</a> /
                 <a href="{{ BASE_PATH }}/assets/chiranjib-bio.txt">Biography</a> /
                 <a href="https://scholar.google.com/citations?hl=en&user=WDy6l08AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>  /
-                <a href="www.linkedin.com/in/chiranjibsaha"> LinkedIn </a>  /
+                <a href="https://www.linkedin.com/in/chiranjibsaha/"> LinkedIn </a>  /
                  <a href="https://github.com/stochastic-geometry/"> Github </a>
 </p>
 
