@@ -44,7 +44,7 @@ Clustered User Distribution", submitted.
 #### 2019
 
 [J10] **C. Saha**, H. S. Dhillon, "Millimeter Wave Integrated Access and Backhaul in 5G: Performance Analysis and Design Insights
-", *IEEE Journal on Selected Areas in Communications*, *to appear*, [[arXiv]](https://arxiv.org/abs/1902.06300)[[code]](https://github.com/stochastic-geometry/Load-balancing-5G-mmwave)
+", *IEEE Journal on Selected Areas in Communications*,  vol. 37, no. 12, pp. 2669-2684, Dec. 2019. [[IEEE Xplore]](https://doi.org/10.1109/JSAC.2019.2947997) [[arXiv]](https://arxiv.org/abs/1902.06300)[[code]](https://github.com/stochastic-geometry/Load-balancing-5G-mmwave)
 
 
 [J9] **C. Saha**, H. S. Dhillon, N. Miyoshi, and J. G. Andrews, 
