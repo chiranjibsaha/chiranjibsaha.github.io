@@ -36,6 +36,7 @@ description: Chiranjib Saha's publications
 ### <a name="journal"></a>Journal Articles
 
 #### Submitted
+[J12] **C. Saha**, M. Afshang, and H. S. Dhillon, "Meta Distribution of Downlink $\mathtt{SIR}$ in a Poisson Cluster Process-based HetNet Model", submitted.
 
 [J11] **C. Saha**, H. S. Dhillon, "Load on the Typical Poisson Voronoi Cell with
 Clustered User Distribution", submitted.
