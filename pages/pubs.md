@@ -38,8 +38,12 @@ description: Chiranjib Saha's publications
 #### Submitted
 [J12] **C. Saha**, M. Afshang, and H. S. Dhillon, "Meta Distribution of Downlink SIR in a Poisson Cluster Process-based HetNet Model", submitted.
 
+
+
+#### 2020
+
 [J11] **C. Saha**, H. S. Dhillon, "Load on the Typical Poisson Voronoi Cell with
-Clustered User Distribution", submitted.
+Clustered User Distribution", *IEEE Wireless Communications Letters*, to appear. [[arxiv]]() [[code]](https://github.com/stochastic-geometry/LoadDistributionPCP) 
 
 #### 2019
 
