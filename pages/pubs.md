@@ -43,7 +43,7 @@ description: Chiranjib Saha's publications
 #### 2020
 
 [J11] **C. Saha**, H. S. Dhillon, "Load on the Typical Poisson Voronoi Cell with
-Clustered User Distribution", *IEEE Wireless Communications Letters*, to appear. [[arxiv]](https://arxiv.org/abs/2004.10053) [[code]](https://github.com/stochastic-geometry/LoadDistributionPCP) 
+Clustered User Distribution", *IEEE Wireless Communications Letters*, to appear. [[arXiv]](https://arxiv.org/abs/2004.10053) [[code]](https://github.com/stochastic-geometry/LoadDistributionPCP) 
 
 #### 2019
 
