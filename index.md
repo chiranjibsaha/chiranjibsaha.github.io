@@ -30,8 +30,8 @@ I am a PhD student at [Wireless@VT](https://wireless.vt.edu/),  [Bradley Departm
 
 Alongside my research, I am a photography-enthusiast. I love to spend time reading and talking about cameras, lights and post-processing. Here's a link to my small gallery.
 
-<a href="https://www.flickr.com/photos/chiranjibsaha/">
- My Flikr stream 
+<a href="https://www.instagram.com/chiranjib_saha_/">
+ My insta page 
 </a>
 
 
