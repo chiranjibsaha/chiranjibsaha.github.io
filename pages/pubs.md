@@ -98,7 +98,7 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 
 #### 2019
 
-[C9] **C. Saha** and H. S. Dhillon, “Interference Characterization in Wireless Networks: A Determinantal Learning Approach”, in Proc. IEEE Int. Workshop in Machine Learning for Sig. Processing, Pittsburgh, PA, Oct. 2019.
+[C9] **C. Saha** and H. S. Dhillon, “Interference Characterization in Wireless Networks: A Determinantal Learning Approach”, in Proc. IEEE Int. Workshop in Machine Learning for Sig. Processing, Pittsburgh, PA, Oct. 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8918912)
 
 [C8] **C. Saha** and H. S. Dhillon, “Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks”,  in Proc. IEEE Globecom, Waikoloa, HI, Dec. 2019. [[arXiv]](https://arxiv.org/abs/1905.00504) [[code]](https://github.com/stochastic-geometry/DPPL).
 
