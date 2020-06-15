@@ -94,7 +94,7 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 
 #### 2020
 
-[C11] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array",  IEEE RadarConf20, *to appear*.
+[C11] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array", in Proc. IEEE RadarConf20, *to appear*.
 
 #### 2019
 
