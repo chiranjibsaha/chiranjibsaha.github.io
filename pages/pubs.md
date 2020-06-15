@@ -90,11 +90,11 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 
 #### Submitted
 
-[C12] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, submitted. [[arXiv]](https://arxiv.org/abs/2005.08413)
+[C11] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, submitted. [[arXiv]](https://arxiv.org/abs/2005.08413)
 
 #### 2020
 
-[C11] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array", in Proc. IEEE RadarConf20, *to appear*.
+[C10] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array", in Proc. IEEE RadarConf20, *to appear*.
 
 #### 2019
 
