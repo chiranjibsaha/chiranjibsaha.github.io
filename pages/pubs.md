@@ -90,7 +90,12 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 
 #### Submitted
 
-[C10] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, submitted. [[arXiv]](https://arxiv.org/abs/2005.08413)
+[C12] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, submitted. [[arXiv]](https://arxiv.org/abs/2005.08413)
+
+#### 2020
+
+[C11] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array",  IEEE RadarConf20, *to appear*.
+
 #### 2019
 
 [C9] **C. Saha** and H. S. Dhillon, “Interference Characterization in Wireless Networks: A Determinantal Learning Approach”, in Proc. IEEE Int. Workshop in Machine Learning for Sig. Processing, Pittsburgh, PA, Oct. 2019.
