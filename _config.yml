@@ -85,7 +85,7 @@ author:
   bio              : "3GPP Standards Engineer at Qualcomm | PhD in Wireless Communication"
   location         : "Blacksburg, Virginia, USA"
   email            : "csaha@vt.edu"
-  employer         : "Qualcomm Inc."
+  employer         : # "Qualcomm Inc."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=WDy6l08AAAAJ&view_op=list_works&sortby=pubdate"
   linkedin         : "chiranjibsaha"
