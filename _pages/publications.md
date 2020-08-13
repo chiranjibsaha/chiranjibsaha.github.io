@@ -82,19 +82,18 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 
 ### 2020
 
-[C12] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, in Proc. Asilomar, Pacific Grove, CA, Nov. 2020. [[arXiv]](https://arxiv.org/abs/2005.08413)
+[C12] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, in *Proc. Asilomar*, Pacific Grove, CA, Nov. 2020. [[arXiv]](https://arxiv.org/abs/2005.08413)
 
-[C11] **C. Saha**, P. D. Mankar, H. S. Dhillon, “Rate Coverage of a Cellular Network with Users distributed as Poisson Cluster Process”, in Proc. Asilomar, Pacific Grove, CA, Nov. 2020.
+[C11] **C. Saha**, P. D. Mankar, H. S. Dhillon, “Rate Coverage of a Cellular Network with Users distributed as Poisson Cluster Process”, in *Proc. Asilomar*, Pacific Grove, CA, Nov. 2020.
 
-[C10] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array", in Proc. IEEE RadarConf20, *to appear*.
-
+[C10] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array",  in *Proc. IEEE Radar Conference*, Florence, Italy, Sept. 2020.
 ### 2019
 
-[C9] **C. Saha** and H. S. Dhillon, “Interference Characterization in Wireless Networks: A Determinantal Learning Approach”, in Proc. IEEE Int. Workshop in Machine Learning for Sig. Processing, Pittsburgh, PA, Oct. 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8918912)
+[C9] **C. Saha** and H. S. Dhillon, “Interference Characterization in Wireless Networks: A Determinantal Learning Approach”, in *Proc. IEEE Int. Workshop in Machine Learning for Sig. Processing*, Pittsburgh, PA, Oct. 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8918912)
 
-[C8] **C. Saha** and H. S. Dhillon, “Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks”,  in Proc. IEEE Globecom, Waikoloa, HI, Dec. 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9013889)  [[arXiv]](https://arxiv.org/abs/1905.00504) [[code]](https://github.com/stochastic-geometry/DPPL).
+[C8] **C. Saha** and H. S. Dhillon, “Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks”,  in *Proc. IEEE Globecom*, Waikoloa, HI, Dec. 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9013889)  [[arXiv]](https://arxiv.org/abs/1905.00504) [[code]](https://github.com/stochastic-geometry/DPPL).
 
-[C7] C. Saha and H. S. Dhillon, “On Load Balancing in Millimeter Wave HetNets with Integrated Access and Backhaul”,  in Proc. IEEE Globecom, Waikoloa, HI, Dec. 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9013537)
+[C7] C. Saha and H. S. Dhillon, “On Load Balancing in Millimeter Wave HetNets with Integrated Access and Backhaul”,  in *Proc. IEEE Globecom*, Waikoloa, HI, Dec. 2019. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9013537)
 
 ### 2018
 
