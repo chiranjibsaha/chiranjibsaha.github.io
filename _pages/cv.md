@@ -13,7 +13,10 @@ The PDF version of my resume can be found [here](../files/resume_chiranjib.pdf).
 Education
 ======
 ---
-### [Virginia Tech](https://vt.edu), USA (Fall 2015 - Summer 2020)
+### [Qualcomm Inc.](https://www.qualcomm.com), San Diego, VA (Fall 2020-Present)
+* Senior Engineer focusing on 3GPP RAN1 standardization 
+
+### [Virginia Tech](https://vt.edu), Blacksburg, VA (Fall 2015 - Summer 2020)
 * M.S. and PhD (dual degree) in Electrical Engineering
     * Advisor: Prof. [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu)
     *  Research Group: [Wireless @ Virginia Tech](https://wireless.vt.edu)
