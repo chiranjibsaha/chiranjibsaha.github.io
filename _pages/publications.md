@@ -80,11 +80,11 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 
 # <a name="conf"></a>Conference Articles
 
-## Submitted
-
-[C11] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, submitted. [[arXiv]](https://arxiv.org/abs/2005.08413)
-
 ### 2020
+
+[C12] K. Bhogi, **C. Saha**, H. S. Dhillon, “Learning on a Grassmann Manifold: CSI Quantization for Massive MIMO Systems”, in Proc. Asilomar, Pacific Grove, CA, Nov. 2020. [[arXiv]](https://arxiv.org/abs/2005.08413)
+
+[C11] **C. Saha**, P. D. Mankar, H. S. Dhillon, “Rate Coverage of a Cellular Network with Users distributed as Poisson Cluster Process”, in Proc. Asilomar, Pacific Grove, CA, Nov. 2020.
 
 [C10] S. Mulleti, **C. Saha**, H. S. Dhillon, Y. Elder, "A Fast-Learning Sparse Antenna Array", in Proc. IEEE RadarConf20, *to appear*.
 
