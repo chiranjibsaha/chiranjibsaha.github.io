@@ -24,7 +24,7 @@ I received the B.E. degree (Hons.) in electronics and telecommunication engineer
 
 ### Photography
 
-I also identify myself as an amateur photographer and camera enthusiast. You can check my small gallery by in [instagram](https://www.instagram.com/chiranjib_saha_/){:target="_blank"} and [flikr](https://www.flickr.com/photos/chiranjibsaha/with/49685475027/){:target="_blank"}. Please feel free to drop by a message in any social network platform or email if you are interested to discuss about photography.
+I also identify myself as an amateur photographer and camera enthusiast. You can check my small gallery by in [instagram](https://www.instagram.com/chiranjib_saha_/){:target="_blank"} and [flikr](https://www.flickr.com/photos/chiranjibsaha/with/49685475027/){:target="_blank"}. Please feel free to send a message in any social network platform or email if you are interested to discuss about photography.
 
 
 News and Updates
