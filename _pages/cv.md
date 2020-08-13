@@ -26,15 +26,6 @@ Education
 Professional Experience
 ======
 ---
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 ### Virginia Tech, Blacksburg, VA (Fall 2015 - Summer 2020)
 * Graduate Research Assistant
