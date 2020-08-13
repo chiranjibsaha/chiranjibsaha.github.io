@@ -8,21 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF version of my resume can be found [here](../files/resume_chiranjib.pdf).
+The PDF version of my resume can be found [here](../files/resume_chiranjib.pdf){:target="_blank"}.
 
 Education
 ======
 ---
-### [Qualcomm Inc.](https://www.qualcomm.com), San Diego, VA (Fall 2020-Present)
+### [Qualcomm Inc.](https://www.qualcomm.com){:target="_blank"}, San Diego, VA (Fall 2020-Present)
 * Senior Engineer focusing on 3GPP RAN1 standardization 
 
 ### [Virginia Tech](https://vt.edu), Blacksburg, VA (Fall 2015 - Summer 2020)
 * M.S. and PhD (dual degree) in Electrical Engineering
-    * Advisor: Prof. [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu)
-    *  Research Group: [Wireless @ Virginia Tech](https://wireless.vt.edu)
-    * Dissertation: [Advances in Stochastic Geometry for Cellular Networks](../files/Saha_C_D_2020.pdf)
+    * Advisor: Prof. [Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu){:target="_blank"}
+    *  Research Group: [Wireless @ Virginia Tech](https://wireless.vt.edu){:target="_blank"}
+    * Dissertation: [Advances in Stochastic Geometry for Cellular Networks](../files/Saha_C_D_2020.pdf){:target="_blank"}
 
-### [Jadavpur University](http://www.jaduniv.edu.in), India (Fall 2004 - Spring 2008)
+### [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India (Fall 2004 - Spring 2008)
 * B. Tech in Electronics and Communications Engineering 
     * Thesis: An Adaptive Space Time Decoder with Quadrant-Localized Search Algorithm
 
