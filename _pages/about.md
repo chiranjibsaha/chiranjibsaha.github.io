@@ -27,7 +27,7 @@ News and Updates
 ------
 ##### 2020
 - [Aug 2020] Joining Qualcomm Inc. as senior engineer.
-- [Aug 2020] Successfully defended PhD thesis. Link to [dissertation](/files/Saha_C_2020.pdf){:target="_blank"} and [slide](/files/slide_defense.pdf){:target="_blank"}.
+- [Aug 2020] Successfully defended PhD thesis. Link to [dissertation](/files/Saha_C_D_2020.pdf){:target="_blank"} and [slide](/files/slide_defense.pdf){:target="_blank"}.
 - [Aug 2020] Papers on [load analysis](https://ieeexplore.ieee.org/document/9079449){:target="_blank"} and [meta distribution](https://ieeexplore.ieee.org/document/9165207){:target="_blank"} of PCP-based general HetNet models appearing in IEEE Wireless Comm. Letters.
 
 ##### 2019
