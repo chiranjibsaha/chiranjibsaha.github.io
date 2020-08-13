@@ -10,6 +10,7 @@ redirect_from:
 
 ------
 I received the B.E. degree (Hons.) in electronics and telecommunication engineering from Jadavpur University, India, in 2015. I completed my M.S and PhD (dual degree) at [Virginia Tech](https://vt.edu/), in [Bradley Department of Electrical and Computer Engineering](https://www.ece.vt.edu/). I am presently a Senior Engineer at Qualcomm Technologies, working on standardization activities in 3GPP. I have held summer  internship positions at Samsung Reseach America, Plano, TX, USA, Nokia Bell Labs, Naperville, IL, USA, and the National University of Singapore. I was a recipient of the Wireless Fellowship awarded by [Wireless@VT](https://wireless.vt.edu/), Virginia Tech, in 2015.
+
 ------
 
 ### Research Interests 
