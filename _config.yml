@@ -79,25 +79,25 @@ analytics:
 
 
 # Site Author
-author:
+author: 
   name             : "Chiranjib Saha"
   avatar           : "profile.png"
   bio              : "3GPP Standards Engineer at Qualcomm | PhD in Wireless Communication"
   location         : "Blacksburg, Virginia, USA"
-  email            : "csaha@vt.edu"
-  employer         : # "Qualcomm Inc."
+  employer         : "Qualcomm"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=WDy6l08AAAAJ&view_op=list_works&sortby=pubdate"
-  linkedin         : "chiranjibsaha"
-    github         : "chiranjibsaha"
+  linkedin         : "https://www.linkedin.com/in/chiranjibsaha/"
+  email            : "csaha@vt.edu"
   researchgate     : "https://www.researchgate.net/profile/Chiranjib_Saha2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/photos/chiranjibsaha"
+  flickr           : "chiranjibsaha"
   facebook         :
   foursquare       :
+  github           : "chiranjibsaha"
   google_plus      :
   keybase          :
   instagram        : chiranjib_saha_
