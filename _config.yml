@@ -84,25 +84,25 @@ author:
   avatar           : "profile.png"
   bio              : "3GPP Standards Engineer at Qualcomm | PhD in Wireless Communication"
   location         : "Blacksburg, Virginia, USA"
-  employer         :
+  email            : "csaha@vt.edu"
+  employer         : "Qualcomm Inc."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=WDy6l08AAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  linkedin         : "chiranjibsaha"
+    github         : "chiranjibsaha"
   researchgate     : "https://www.researchgate.net/profile/Chiranjib_Saha2"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/chiranjibsaha"
   facebook         :
   foursquare       :
-  github           : "chiranjibsaha"
   google_plus      :
   keybase          :
   instagram        : chiranjib_saha_
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "chiranjibsaha"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
