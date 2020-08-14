@@ -23,7 +23,8 @@ Education
 
 ### [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India (Fall 2004 - Spring 2008)
 * B. Tech in Electronics and Communications Engineering 
-    * Thesis: An Adaptive Space Time Decoder with Quadrant-Localized Search Algorithm
+    * Thesis: Gesture driven control of an Arduino based robot using Kinect
+
 
 Professional Experience
 ======
