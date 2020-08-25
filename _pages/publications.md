@@ -121,7 +121,7 @@ doi: 10.1109/TII.2015.2485520 [[IEEE Xplore]](https://ieeexplore.ieee.org/docume
 ---
 ## <a name="dis"></a>Dissertation
 
-- C. Saha, “Advances in Stochastic Geometry for Cellular Networks”, Ph.D. Dissertation, Virginia Tech, 2020. [[pdf]](../files/Saha_C_D_2020.pdf){:target="_blank"} [[slide]](../files/slide_defense.pdf){:target="_blank"}
+- C. Saha, “Advances in Stochastic Geometry for Cellular Networks”, Ph.D. Dissertation, Virginia Tech, 2020. [[pdf]](https://vtechworks.lib.vt.edu/handle/10919/99835){:target="_blank"} [[slide]](../files/slide_defense.pdf){:target="_blank"}
 
 
 
