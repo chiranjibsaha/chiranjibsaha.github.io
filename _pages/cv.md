@@ -21,7 +21,7 @@ Education
     *  Research Group: [Wireless @ Virginia Tech](https://wireless.vt.edu){:target="_blank"}
     * Dissertation: [Advances in Stochastic Geometry for Cellular Networks](../files/Saha_C_D_2020.pdf){:target="_blank"}
 
-### [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India (Fall 2004 - Spring 2008)
+### [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India (Fall 2011 - Spring 2015)
 * B. Tech in Electronics and Communications Engineering 
     * Thesis: Gesture driven control of an Arduino based robot using Kinect
 
